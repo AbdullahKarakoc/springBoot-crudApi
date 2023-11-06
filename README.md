@@ -3,7 +3,11 @@
 # Crud Api
 Postman ile veri tabanına Ekleme, Silme, Güncelleme ve Listeleme işlemi.(Id ve isimlere göre ayrı ayrı listeleme işlemleri yapabilirsiniz) 
 # Not
-Company tablosunda işlem yapmak istiyorsak; addCompany,addCompanys,companys,CompanyById/{id},company/{name},updateCompany,deleteCompany/{id}
+Company tablosunu sonradan eklediğim için işlem yapmak istiyorsak; 
+PostMapping: addCompany,addCompanys
+GetMapping: companys,CompanyById/{id},company/{name}
+UpdateMapping: updateCompany
+DeleteMapping deleteCompany/{id}
 istemlerini kullanmalıyız.
 
 # Tek veri Ekleme
