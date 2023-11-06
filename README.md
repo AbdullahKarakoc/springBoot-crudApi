@@ -10,6 +10,9 @@ Postman ile veri tabanına Ekleme, Silme, Güncelleme ve Listeleme işlemi.(Id v
 # Verileri Listeleme
 ![Ekran Görüntüsü (654)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/ce49d3b9-2e40-43bd-9a7c-ee76fa171ab0)
 ![Ekran Görüntüsü (655)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/044605b1-48e0-4829-8cf3-44ba61f53424)
+# Veriyi İsim ile Listeleme
+![Ekran Görüntüsü (665)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/a133bfc1-dc4a-4ea1-a6be-bdcc56bcd5ea)
+![Ekran Görüntüsü (666)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/76ece2c7-b016-478c-a05f-2d3f96d326c5)
 # Veriyi Id ile Listeleme
 ![Ekran Görüntüsü (656)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/0ec18f04-bf77-4051-9306-923a6a570863)
 ![Ekran Görüntüsü (657)](https://github.com/AbdullahKarakoc/springBoot-crudApi/assets/117372203/a0ba1bb8-2890-4dd2-8322-5ca7c3411425)
