@@ -32,6 +32,7 @@ public class EmployeeService {
     }
 
     public String deleteEmployee(int id){
+        repository.deleteById(id);
         return "!!! Employee information is Deleted !!! "+id;
     }
 

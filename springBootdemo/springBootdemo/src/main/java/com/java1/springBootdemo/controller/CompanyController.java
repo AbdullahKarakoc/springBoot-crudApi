@@ -35,11 +35,11 @@ public class CompanyController {
         return service.getCompanyByName(name);
     }
 
-    @PutMapping("/update")
+    @PutMapping("/updateCompany")
     public Company updateCompany(@RequestBody Company company){
         return service.updateCompany(company);
     }
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/deleteCompany/{id}")
     public String deleteCompany(@PathVariable int id){return service.deleteCompany(id);
     }
 

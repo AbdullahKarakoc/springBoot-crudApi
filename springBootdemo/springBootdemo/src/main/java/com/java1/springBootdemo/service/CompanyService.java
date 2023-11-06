@@ -32,6 +32,7 @@ public class CompanyService {
     }
 
     public String deleteCompany(int id){
+        repository.deleteById(id);
         return "!!! Company information is Deleted !!! "+id;
     }
 
